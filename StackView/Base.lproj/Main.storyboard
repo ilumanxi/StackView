@@ -93,7 +93,7 @@
                             <constraint firstAttribute="trailingMargin" secondItem="x1w-UO-2k9" secondAttribute="trailing" id="s3q-dt-PY7"/>
                         </constraints>
                     </view>
-                    <navigationItem key="navigationItem" title="StackView" id="uAB-aX-bAL"/>
+                    <navigationItem key="navigationItem" title="StackView默认拉伸StackView中的第一个子视图" id="uAB-aX-bAL"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
